@@ -1,0 +1,25 @@
+{
+  "name": "crosstalk-worker-api-aws-sts",
+  "version": "1.0.1",
+  "description": "Crosstalk Worker for the AWS STS",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:crosstalk/crosstalk-worker-api-aws-sts.git"
+  },
+  "keywords": [
+    "aws",
+    "sts",
+    "crosstalk",
+    "worker"
+  ],
+  "author": "Crosstalk Systems <developers@crxtalk.com>",
+  "maintainers": [
+    "Tristan Slominski <tristan.slominski@gmail.com>"
+  ],
+  "crosstalk": {
+    "type": "worker"
+  },
+  "license": "MIT",
+  "private": true
+}
