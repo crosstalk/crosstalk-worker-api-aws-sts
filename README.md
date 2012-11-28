@@ -3,6 +3,12 @@ crosstalk-worker-api-aws-sts
 
 `crosstalk-worker-api-aws-sts` is a Crosstalk worker for interacting with AWS STS API
 
+## Configuration
+
+```json
+{}
+```
+
 ## crosstalk.on
 
 [api.aws.sts.getSessionToken@v1](/crosstalk/crosstalk-worker-api-aws-sts/wiki/api.aws.sts.getSessionToken@v1) - Get session token
