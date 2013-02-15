@@ -11,23 +11,11 @@ crosstalk-worker-api-aws-sts
 
 ## crosstalk.on
 
-[api.aws.sts.getSessionToken@v1](/crosstalk/crosstalk-worker-api-aws-sts/wiki/api.aws.sts.getSessionToken@v1) - Get session token
+[api.aws.sts.getSessionToken@v1](https://github.com/crosstalk/crosstalk-worker-api-aws-sts/wiki/api.aws.sts.getSessionToken@v1) - Get session token
 
 ## crosstalk.emit
 
-[~crosstalk.api.aws.signature.version2](/crosstalk/crosstalk-worker-api-aws-signature-version2/wiki/api.aws.signature.version2) - Requests an AWS Version 2 Signature to sign API request with
-
-## http in
-
-None
-
-## http out
-
-None
-
-## https in
-
-None
+[~crosstalk.api.aws.signature.version2](https://github.com/crosstalk/crosstalk-worker-api-aws-signature-version2/wiki/api.aws.signature.version2) - Requests an AWS Version 2 Signature to sign API request with
 
 ## https out
 
