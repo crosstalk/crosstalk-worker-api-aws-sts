@@ -3,6 +3,8 @@ crosstalk-worker-api-aws-sts
 
 `crosstalk-worker-api-aws-sts` is a Crosstalk worker for interacting with AWS STS API
 
+_Click on links below for detailed documentation._
+
 ## Configuration
 
 ```json
